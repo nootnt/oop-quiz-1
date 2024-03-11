@@ -1,8 +1,8 @@
-package quizes.q1.nikolozi_lagvilava_1;
+package Assignment1;
 /**
  * Corrected :)
  */
-public class Assignment01{
+public class Assignment1{
     public static void main(String[] args){
 
         int A = 17;
